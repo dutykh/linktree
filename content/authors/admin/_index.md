@@ -35,14 +35,14 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dutykh/
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
+    url: https://scholar.google.com/citations?user=cvOVca4AAAAJ&hl=en
   - icon: brands/orcid
-    url: https://www.orcid.com/
+    url: https://orcid.org/0000-0001-5247-2788/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/CV_Dutykh.pdf
     label: Download my resume
 ---
 

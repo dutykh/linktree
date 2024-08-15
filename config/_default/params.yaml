@@ -12,9 +12,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo link in bio theme powered by Wowchemy website builder.'
+    local_business_type: 'Academic research'
+    org_name: 'Academia'
+    description: 'Link tree of an applied mathematician Dr. Denys Dutykh.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: '© {year} by Dr. Denys Dutykh'
 
 # Localization
 locale:
