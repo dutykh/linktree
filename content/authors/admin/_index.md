@@ -21,7 +21,7 @@ role: Associate Professor in Applied Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Khalifa University
+  - name: Khalifa University of Science and Technology
     url: https://www.ku.ac.ae/
 
 # Social Networking
