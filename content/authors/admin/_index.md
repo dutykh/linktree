@@ -34,8 +34,6 @@ profiles:
     url: https://www.linkedin.com/in/dutykh/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=cvOVca4AAAAJ&hl=en
-  - icon: custom/researchgate
-    url: https://www.researchgate.net/profile/Denys-Dutykh/
   - icon: brands/arxiv
     url: https://arxiv.org/a/dutykh_d_1.html
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
