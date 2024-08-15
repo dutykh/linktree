@@ -56,4 +56,4 @@ profiles:
     url: https://t.me/DoctDD/
 ---
 
-**Dr. Denys Dutykh is a professional research-level mathematician working in the fields of mathematical modeling, scientific computing, and analysis , with a particular focus on the application of these methods to complex physical phenomena.**
+**Dr. Denys Dutykh is a professional research-level mathematician working in the fields of mathematical modeling, scientific computing, and analysis, with a particular focus on the application of these methods to complex physical phenomena.**
