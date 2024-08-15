@@ -24,7 +24,7 @@ sections:
       buttons:
         - text: My personal home page
           icon: custom/url
-          url: http://www.denys-dutykh.com/
+          url: https://www.denys-dutykh.com/
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/dutykh/
