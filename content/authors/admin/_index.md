@@ -34,18 +34,26 @@ profiles:
     url: https://www.linkedin.com/in/dutykh/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=cvOVca4AAAAJ&hl=en
+  - icon: brands/arxiv
+    url: https://arxiv.org/a/dutykh_d_1.html
+  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/CV_Dutykh.pdf
     label: Download my resume
   - icon: brands/github
-    url: https://github.com/dutykh
+    url: https://github.com/dutykh/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@DenysDutykh/
   - icon: brands/x
-    url: https://x.com/ddutykh
+    url: https://x.com/ddutykh/
   - icon: brands/orcid
     url: https://orcid.org/0000-0001-5247-2788/
   - icon: brands/instagram
     url: https://www.instagram.com/denys.dutykh/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: brands/instagramfacebook
+    url: https://www.facebook.com/denys.dutykh.7/
+  - icon: brands/telegram
+    url: https://t.me/DoctDD/
 ---
 
 **Dr. Denys Dutykh is a professional research-level mathematician working in the fields of mathematical modeling, scientific computing, and analysis , with a particular focus on the application of these methods to complex physical phenomena.**

@@ -30,5 +30,5 @@ sections:
           url: https://arxiv.org/a/dutykh_d_1.html
         - text: My YouTube channel
           icon: brands/youtube
-          url: https://www.youtube.com/@DenysDutykh
+          url: https://www.youtube.com/@DenysDutykh/
 ---
