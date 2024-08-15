@@ -22,6 +22,9 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
+        - text: My personal home page
+          icon: custom/url
+          url: http://www.denys-dutykh.com/
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/dutykh/
