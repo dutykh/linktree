@@ -30,16 +30,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:denys.dutykh@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/ddutykh
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dutykh/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=cvOVca4AAAAJ&hl=en
+  - icon: brands/x
+    url: https://x.com/ddutykh
   - icon: brands/orcid
     url: https://orcid.org/0000-0001-5247-2788/
+  - icon: brands/instagram
+    url: https://www.instagram.com/denys.dutykh/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/CV_Dutykh.pdf
