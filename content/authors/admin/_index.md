@@ -50,7 +50,7 @@ profiles:
     url: https://orcid.org/0000-0001-5247-2788/
   - icon: brands/instagram
     url: https://www.instagram.com/denys.dutykh/
-  - icon: brands/instagramfacebook
+  - icon: brands/facebook
     url: https://www.facebook.com/denys.dutykh.7/
   - icon: brands/telegram
     url: https://t.me/DoctDD/
