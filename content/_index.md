@@ -25,6 +25,9 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/dutykh/
+        - text: Follow me on ResearchGate
+          icon: brands/custom/researchgate
+          url: https://www.researchgate.net/profile/Denys-Dutykh/
         - text: Read my latest articles on Arxiv
           icon: academicons/arxiv
           url: https://arxiv.org/a/dutykh_d_1.html
