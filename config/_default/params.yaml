@@ -10,7 +10,7 @@ marketing:
 
 # Appearance
 appearance:
-  mode: light
+  mode: system
   color: blue
 
 # SEO
